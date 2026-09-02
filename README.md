@@ -1,12 +1,6 @@
 # 🤖 Generative AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-Agent-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VectorDB-ChromaDB-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-</p>
+
 
 <p align="center">
 Developing intelligent AI-powered applications using Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), AI Agents, and Vector Databases.
