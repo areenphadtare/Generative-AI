@@ -3,6 +3,7 @@ langchain-core
 langchain
 
 # OpenAI integration
+langchain-openai
 langchain-anthropic
 
 # Google Gemini (PaLM) integration
